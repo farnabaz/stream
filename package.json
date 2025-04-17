@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxtjs/mdc": "https://pkg.pr.new/@nuxtjs/mdc@e744b17",
+    "@nuxtjs/mdc": "https://pkg.pr.new/@nuxtjs/mdc@fff2e3b",
     "nuxt": "^3.16.2",
     "shiki": "^3.2.2",
     "shiki-stream": "^0.1.2",

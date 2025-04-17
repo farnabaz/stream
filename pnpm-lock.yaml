@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@nuxtjs/mdc':
-        specifier: https://pkg.pr.new/@nuxtjs/mdc@e744b17
-        version: https://pkg.pr.new/@nuxtjs/mdc@e744b17(magicast@0.3.5)
+        specifier: https://pkg.pr.new/@nuxtjs/mdc@fff2e3b
+        version: https://pkg.pr.new/@nuxtjs/mdc@fff2e3b(magicast@0.3.5)
       nuxt:
         specifier: ^3.16.2
         version: 3.16.2(@netlify/blobs@8.2.0)(@parcel/watcher@2.5.1)(@types/node@22.14.1)(better-sqlite3@11.9.1)(db0@0.3.1(better-sqlite3@11.9.1))(ioredis@5.6.1)(magicast@0.3.5)(rollup@4.40.0)(terser@5.39.0)(typescript@5.8.3)(vite@6.3.1(@types/node@22.14.1)(jiti@2.4.2)(terser@5.39.0)(yaml@2.7.1))(yaml@2.7.1)
@@ -605,8 +605,8 @@ packages:
     peerDependencies:
       vue: ^3.3.4
 
-  '@nuxtjs/mdc@https://pkg.pr.new/@nuxtjs/mdc@e744b17':
-    resolution: {tarball: https://pkg.pr.new/@nuxtjs/mdc@e744b17}
+  '@nuxtjs/mdc@https://pkg.pr.new/@nuxtjs/mdc@fff2e3b':
+    resolution: {tarball: https://pkg.pr.new/@nuxtjs/mdc@fff2e3b}
     version: 0.16.1
 
   '@oxc-parser/binding-darwin-arm64@0.56.5':
@@ -5012,7 +5012,7 @@ snapshots:
       - vue-tsc
       - yaml
 
-  '@nuxtjs/mdc@https://pkg.pr.new/@nuxtjs/mdc@e744b17(magicast@0.3.5)':
+  '@nuxtjs/mdc@https://pkg.pr.new/@nuxtjs/mdc@fff2e3b(magicast@0.3.5)':
     dependencies:
       '@nuxt/kit': 3.16.2(magicast@0.3.5)
       '@shikijs/langs': 3.2.2
